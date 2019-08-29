@@ -1,0 +1,12 @@
+html{
+    border: 5px solid black;
+    border-radius: 8px
+}
+
+h1 {color: rgb(42, 54, 22);size: 5rem}
+h3 {color: rgb(42, 54, 22);size: 3rem;
+background: burlywood}
+body {background-color: rgb(248, 231, 211)}
+table {
+    border-spacing: 3rem
+}
